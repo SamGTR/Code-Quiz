@@ -55,7 +55,7 @@ The web application is developed using HTML, CSS and Javascript files.
 Following is the link to the Code-Quiz application:  
 https://samgtr.github.io/Code-Quiz/
 
-Following is the link to the Github repository for Password Generator application:  
+Following is the link to the Github repository for Code-Quiz application:  
 https://github.com/SamGTR/Code-Quiz
 
 ## License
