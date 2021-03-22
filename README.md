@@ -20,27 +20,27 @@ This applicationw as developed from scratch using HTML, CSS and Javascript files
 
 - When the user clicks the "Start Quiz" button, user is presented with a multipple choice question. Immediately timer also starts counting down from 75 seconds.
 
-![Prompt for password length.](./assets/images/2.png)
+![Start of quiz](./assets/images/2.png)
 
 - When user clicks the correct answer, the application displays message of the answer being correct.
 
-![Alert to enter password length.](./assets/images/3.png)
+![Answer checking.](./assets/images/3.png)
 
 - If the user enters wrong answer then the application shows the message that the answer is wrong and also shows the correct answer next to it.
 
-![Criteria confirmation for numbers.](./assets/images/4.png)
+![Wrong answer case.](./assets/images/4.png)
 
 - Once user answers all the five questions, he will be presented with final statistics of the quiz such as total score. Also, user will be asked to enter the initial of his/her name.
 
-![Alert for chosing a criteria.](./assets/images/5.jpeg)
+![Quiz finish.](./assets/images/5.png)
 
 - The user need to enter his/her initials and click the "Submit" button.
 
-![Alert for chosing a criteria.](./assets/images/6.jpeg)
+![Enter initial.](./assets/images/6.png)
 
 - Once the user clicks the submit button, the application shows the list of high scores with initials stored in local storage. User can either click "Clear Highscore" button to clear all scores or press "Go Back" button to go to landing page of the application.
 
-![Alert for chosing a criteria.](./assets/images/7.jpeg)
+![View highscores.](./assets/images/7.png)
 
 
 ## Technology
